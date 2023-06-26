@@ -24,4 +24,4 @@ spring:
 
 application:
   config:
-    students-url: http://localhost:8090/api/v1/student
+    students-url: http://school/api/v1/student
